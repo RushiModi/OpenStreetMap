@@ -3,9 +3,6 @@ Created By: RUSHI MODI
 
 
 This repo contains the starter code for the Route Planning project.
-
-<img src="images/map.png" width="600" height="450" />
-
 ## Cloning
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
